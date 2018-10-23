@@ -21,13 +21,45 @@
 # Registers:
 
 # File marks:
-'0  2  21  ~/impartial
+'0  3  17  ~/sub
+'1  1  17  ~/.git/COMMIT_EDITMSG
+'2  2  21  ~/impartial
 
 # Jumplist (newest first):
+-'  3  17  ~/sub
+-'  1  0  ~/sub
+-'  1  17  ~/.git/COMMIT_EDITMSG
+-'  2  21  ~/impartial
+-'  1  0  ~/impartial
+-'  2  21  ~/impartial
+-'  1  0  ~/impartial
+-'  2  21  ~/impartial
+-'  1  0  ~/impartial
+-'  2  21  ~/impartial
+-'  1  0  ~/impartial
+-'  1  17  ~/.git/COMMIT_EDITMSG
+-'  2  21  ~/impartial
+-'  1  0  ~/impartial
+-'  2  21  ~/impartial
+-'  1  0  ~/impartial
+-'  2  21  ~/impartial
+-'  1  0  ~/impartial
 -'  2  21  ~/impartial
 -'  1  0  ~/impartial
 
 # History of marks within files (newest to oldest):
+
+> ~/sub
+	"	3	17
+	^	3	18
+	.	3	17
+	+	3	17
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
 
 > ~/impartial
 	"	2	21
