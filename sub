@@ -1,2 +1,3 @@
-# do subtractio0n
+# do subtraction
+# Fix typo
  echo $(($1 - $2))
